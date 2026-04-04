@@ -56,7 +56,7 @@
                 'share_source', 'share_medium', 'share_plat', 'share_session_id',
                 'share_tag', 'unique_k', 'csource', 'vd_source', 'tab',
                 'is_story_h5', 'share_from', 'plat_id', '-Arouter', 'spmid',
-                'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'
+                'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'trackid'
             ]),
             cleanUrl: (url, urlObj) => {
                 // 特定站点的额外处理
